@@ -36,7 +36,7 @@ El dashboard permite visualizar métricas clave relacionadas con compras, identi
 - HTML
 - CSS
 - JavaScript
-- (Si usaste algo más como Chart.js o Power BI, agrégalo aquí)
+- Looker Studio
 
 ---
 
